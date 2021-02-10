@@ -4,7 +4,7 @@
 
 <h3>The jist of it</h3>
 
-- Seemless orders channeled to local producers. Ability to filter.
+- Orders channeled to local producers seemlessly. Ability to filter.
 
 - Order -> Order is given to producer via chosen parameters: -> Production -> Delivery
               -> Price
